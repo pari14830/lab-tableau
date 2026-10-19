@@ -35,4 +35,12 @@ Upon completion of this lab, you will be able to:
 9. **Dashboard Assembly**: Compile all the created sheets into a single, interactive dashboard for an integrated view of the data insights.
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
+## My Solution
 
+Tableau Public workbook: [tableau-lab](https://public.tableau.com/app/profile/pariya.lakani/viz/tableau-lab_17924159167620)
+
+Sheets included:
+- Gender – customer count by gender
+- Employment by Gender – customers by employment status, split by gender
+- State Treemap – number of customers per state
+- Marital by Gender – cross table of marital status and gender
